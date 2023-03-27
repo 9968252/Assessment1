@@ -33,6 +33,9 @@ code{
     box-shadow: 3px 3px grey;
 }
 
- 
-  
+@media only screen and (max-width: 400px) {
+    h3 {
+      font-size: 0.8rem;
+    }
+  }
   
