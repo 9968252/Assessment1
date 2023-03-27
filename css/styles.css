@@ -1,0 +1,38 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h1{
+    color: azure;
+}
+
+h2{
+    color: azure;
+}
+
+code{
+    color: darkred;
+}
+
+.divLink{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#SCP {
+    height: 50px;
+    width: 80%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    background-color: darkred;
+    opacity: 0.8;
+    box-shadow: 3px 3px grey;
+}
+
+ 
+  
+  
